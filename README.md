@@ -55,13 +55,10 @@ plt.ylabel("True Label")
 plt.title("Confusion Matrix")
 plt.show()
 
-
 ```
 
 ## Output:
-
 <img width="720" height="744" alt="image" src="https://github.com/user-attachments/assets/dfbc5ee5-34be-4273-b44b-7b67f46cd0c7" />
-
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
